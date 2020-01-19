@@ -1,5 +1,7 @@
+--
 layout: page
 title: "Publications"
+--
 
 # 発表文献リスト
 * [BibTex（和文全文献）]()
