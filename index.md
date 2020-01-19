@@ -1,7 +1,3 @@
----
-layout: page
-title: "Top page"
----
 
 ## 日本機械学会ロボメカ部門の特別講演会「テクノロジーの魅力と，ミライのつくりかた」を開催します．ご来場お待ちしております．
  [詳細と申込フォーム](https://docs.google.com/forms/d/e/1FAIpQLSc0pkdEGIn9W73jGvJNuAHsJj9_y4SzfiQ-5HsDpnj1etBspA/viewform)
