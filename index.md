@@ -14,3 +14,10 @@
 ## IEEE ARM 2019 にて1件の発表をしました．市販のバンド型EMGセンサを用いて，手首の旋回動作を伴う物体操作のための手指の運動識別をする手法を提案します．
 > S. Makita and H. Hachiguchi: "Electromyograph Discrimination of Six Hand-Actions for Twisting Manipulation," IEEE Int. Conf. on Advanced Robotics and Automation, Osaka, Japan, 2019/07/03-05. \
 [発表スライド](https://www.slideshare.net/SatoshiMakita/electromyograph-classification-of-six-handactions-for-twisting-manipulation-ieee-int-conf-on-advanced-robotics-and-mechatronics)
+
+## 日本機械学会ロボティクス・メカトロニクス講演会にて3件の発表をしました．
+* 濵口和也，下田雄一郎，七條大樹，佐藤雅紀（長崎総合科学大），槇田諭：``トマトを題材とした農作物収穫ロボットのためのマニピュレータおよび画像処理システムの開発''，1A1-F02
+* 佐々木卓也，槇田諭：``複合現実感を利用するオフラインティーチングの基本設計''，1A1-R02 \
+HoloLens を用いて実ロボットに重なるコンピュータグラフィック・モデルを操作し，ロボットの姿勢を決定する手法を提案します．
+* 鉢峰拓海，槇田諭：``サッシの溝はめ込み動作の計画''，2P1-R06 \
+サッシとフレームのそれぞれの辺の平行を維持することで，3次元コンフィグレーション空間内の探索問題に落とし込みました．距離画像からフレームの位置・姿勢を推定する手法も紹介します．
