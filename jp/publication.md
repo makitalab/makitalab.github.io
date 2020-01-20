@@ -18,7 +18,7 @@
 **2017**
 1. S. Makita and W. Wan:  ``A survey of robotic caging and its applications,''  
     Advanced Robotics, vol. 31, issue 19--20, pp. 1071--1085, Sep 2017. 
-    * [Abstract and Full Text on Taylor and Francis](https://doi.org/10.1080/01691864.2017.1371075) DOI: 10.1080/01691864.2017.1371075 （日本ロボット学会会員は無料でアクセスできます．）
+    * [Abstract and Full Text on Taylor and Francis](https://doi.org/10.1080/01691864.2017.1371075) DOI: 10.1080/01691864.2017.1371075 （日本ロボット学会会員は[会員専用サービス](https://www.kktcs.co.jp/rsjnet/secure/login.aspx)から無料でアクセスできます．）
     * [Accepted version of the article](../pdfs/ar2017_caging-review_accepted.pdf) 
 1. H. Hamada, S. Makita and S. Matsutani:  
     ``Mathematics in Caging of Robotics,'' 
@@ -30,5 +30,5 @@
 1. S. Makita and K. Nagata:  
     ``Evaluation of Quality of Partial Caging by a Planar Two-Fingered Hand,''  
     Advanced Robotics, Vol. 30, Issue 3, pp. 178--189, Feb 2016.
-    * [Abstract and Full Text on Taylor and Francis](https://doi.org/10.1080/01691864.2015.1122551) DOI: 10.1080/01691864.2015.1122551 （日本ロボット学会会員は無料でアクセスできます．）
+    * [Abstract and Full Text on Taylor and Francis](https://doi.org/10.1080/01691864.2015.1122551) DOI: 10.1080/01691864.2015.1122551 （日本ロボット学会会員は[会員専用サービス](https://www.kktcs.co.jp/rsjnet/secure/login.aspx)から無料でアクセスできます．）
     * [Accepted version of the article](../pdfs/ar2016_partial-caging_accepted.pdf)
