@@ -20,7 +20,7 @@
     Advanced Robotics, vol. 31, issue 19--20, pp. 1071--1085, Sep 2017. 
     * [Abstract and Full Text on Taylor and Francis](https://doi.org/10.1080/01691864.2017.1371075) DOI: 10.1080/01691864.2017.1371075 （日本ロボット学会会員は無料でアクセスできます．）
     * [Accepted version of the article](../pdfs/ar2017_caging-review_accepted.pdf) 
-1.  H. Hamada, S. Makita and S. Matsutani:  
+1. H. Hamada, S. Makita and S. Matsutani:  
     ``Mathematics in Caging of Robotics,'' 
     J. of Geometry and Symmetry in Physics, Vol. 44, pp. 55--66, Jul 2017.
     * [Abstract: DOI:10.7546/jgsp-44-2017-55-66](https://www.emis.de/journals/JGSP/jgsp_files/vol44/Hamada_Abs.pdf) 
