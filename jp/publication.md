@@ -1,3 +1,8 @@
+---
+layout: page
+title: "PUblications"
+---
+
 # 発表文献リスト
 - [BibTex（和文全文献）]()
 - [BibTex（英文全文献）]()
