@@ -60,8 +60,11 @@ plugins:
 author:
   name   : "Satoshi Makita"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "福岡工業大学 工学部 知能機械工学科 / Div. of Intelligent Mechanical Engineering, Faculty of ENgineering, Fukuoka Institute of Technology"
+  bio    : "福岡工業大学 工学部 知能機械工学科 / Dept. of Intelligent Mechanical Engineering, Faculty of Engineering, Fukuoka Institute of Technology"
   links:
+    - label: "発表文献 / Publications"
+      icon: "fas fa-fw fa-file-alt"
+      url: "https://makitalab.github.io/publication"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=gDCcj0IAAAAJ&hl=en"
