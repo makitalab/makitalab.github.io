@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "福岡工業大学 工学部 知能機械工学科 / Div. of Intelligent Mechanical Engineering, Faculty of ENgineering, Fukuoka Institute of Technology"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=gDCcj0IAAAAJ&hl=en"
@@ -83,18 +80,21 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/makitalab"
+    - label: "このロボットがすごい"
+      icon: "fas fa-fw fa-link"
+      url: "http://konorobo.main.jp/"
 
 footer:
   links:
     - label: "Fukuoka Institute of Technology"
-      icon: "fab fa-fw fa-university"
+      icon: "fas fa-fw fa-university"
       url: "https://www.fit.ac.jp/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/makitalab"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Faculty of Engineering"
+      icon: "fas fa-fw fa-cogs"
+      url: "https://www.fit.ac.jp/site/susume/index"
+    - label: "Dept. of Intelligent Mechanical Engineering"
+      icon: "fas fa-fw fa-robot"
+      url: "https://www.fit.ac.jp/site/chino/"
 
 defaults:
   # _posts
